@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/0014-longest-common-prefix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Bit Manipulation
 |  |
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sasipriyanka2121/Leetcode-javascript/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
